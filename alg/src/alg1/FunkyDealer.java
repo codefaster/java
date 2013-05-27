@@ -71,7 +71,7 @@ public class FunkyDealer {
 		int rep = re;
 		int lip = li;
 		int piv = a[lip];
-		printArray(a,lip,li,re);
+		printArray(a,lip,li,re,"");
 		while (li < re) {
 			if (a[li+1] <= piv) {
 				int temp = a[li];
@@ -85,7 +85,7 @@ public class FunkyDealer {
 				a[re] = temp;
 				re--;
 			}
-			printArray(a,lip,li,re);
+			printArray(a,lip,li,re,"");
 		}
 		if (li > lip+1) {
 			quickSort(a, lip, li-1);
@@ -118,6 +118,28 @@ public class FunkyDealer {
 //	   |    füge erstes Element rechteListe in die neueListe hinten ein und entferne es aus rechteListe
 //	   solange_ende
 //	   antworte neueListe
+	
+	public class VirtualArray{
+		int start;
+		int end;
+		int [] a;
+		int length;
+		
+		public VirtualArray(int [] a, int start, int end) {
+			this.a=a;
+			this.start=start;
+			this.end=end;
+			this.length=end-start;
+		}
+		
+		public void setValue(int pos, int value) {
+			a[start+pos]=value;
+		}
+		
+		public int getValue(int pos) {
+			return a[start+pos];
+		}
+	}
 
 	public static int[] mergeSort(int [] a) {
 		if (a.length <= 1) { 
