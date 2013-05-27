@@ -119,27 +119,6 @@ public class FunkyDealer {
 //	   solange_ende
 //	   antworte neueListe
 	
-	public class VirtualArray{
-		int start;
-		int end;
-		int [] a;
-		int length;
-		
-		public VirtualArray(int [] a, int start, int end) {
-			this.a=a;
-			this.start=start;
-			this.end=end;
-			this.length=end-start;
-		}
-		
-		public void setValue(int pos, int value) {
-			a[start+pos]=value;
-		}
-		
-		public int getValue(int pos) {
-			return a[start+pos];
-		}
-	}
 
 	public static int[] mergeSort(int [] a) {
 		if (a.length <= 1) { 
