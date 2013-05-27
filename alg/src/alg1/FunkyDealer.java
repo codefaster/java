@@ -145,7 +145,7 @@ public class FunkyDealer {
 		int [] c = new int [m+n];
 		int pa = 0;
 		int pb = 0;
-		int pc = 0;
+		int pc = 0; //
 		while (pa < m && pb < n) {	
 			if (a[pa] <= b[pb]) {	
 				c[pc] = a[pa];
