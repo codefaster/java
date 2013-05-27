@@ -1,5 +1,7 @@
 package alg1;
 
+import java.util.Arrays;
+
 public class FunkyDealer {
 	
 	public static void printArray(int [] a, String label) {
@@ -120,24 +122,60 @@ public class FunkyDealer {
 //	   antworte neueListe
 	
 
-	public static int[] splitRange(int first, int last) {
-		int origLength = last-first;
-		if (origLength <= 1) { 
-			return new int[] {
-					first, last
-					};
+	
+	
+	public class mergeBoy { 
+		protected int [] a;
+		protected int pa;
+		protected int pb;
+		protected int pc;
+		protected int [] virtualC;
+		
+		public mergeBoy(int [] a) {
+			pa = 0;
+			pb = 0;
+			pc = 0;
+			/** 
+			 * Copy Input Array to first half of new double lengthed Array
+			 */
+			this.a = new int [a.length*2];
+			int pos = 0;
+			for (int element : a) {
+				this.a[pos] = a[pos];
+			}
 		}
 		
-		int length1 = origLength / 2;
-		int length2 = origLength - length1;
+		public int[] splitRange(int first, int last) {
+			int origLength = last - first;
+			if (origLength <= 1) { 
+				return new int[] {
+						first, last
+						};
+			}
+			/**/
+			int length1 = origLength / 2;
+			int length2 = origLength - length1;
+			/**/
+			int first1 = first;
+			int last1 = first1 + length1 - 1;
+			/**/
+			int first2 = last1 + 1;
+			int last2 = first2 + length2 - 1;
+			/**/
+			return merge(splitRange(first1,last1),splitRange(first2,last2));
+		}
 		
-		int first1 = first;
-		int last1 = first1 + length1 - 1;
+		public int[] merge(int [] virtualArray1, int [] virtualArray2) {
+			int first1 = virtualArray1[0];
+			int last1 = virtualArray1[1];
+			int first2 = virtualArray2[0];
+			int last2 = virtualArray2[1];
+			int length1 = last1-first1;
+			int length2 = last2-first2;
+			
+			return null;
+		}
 		
-		int first2 = last1 + 1;
-		int last2 = first2 + length2 - 1;
-		
-		return merge(splitRange(first1,last1),splitRange(first2,last2));
 	}
 	
 	public static int[] merge(int [] a, int [] b) {
