@@ -1,0 +1,1 @@
+package pr2.a05.zweite;import java.awt.event.ActionEvent;import java.awt.event.ActionListener;public class WetterDienst implements ActionListener {	protected WetterModel currentWeather;	public WetterDienst(WetterModel m) {		currentWeather = m;	}	public void actionPerformed(ActionEvent e) {		currentWeather.setWetter(Wetterzustand.valueOf(e.getActionCommand()));	}}

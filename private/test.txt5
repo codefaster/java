@@ -1,0 +1,232 @@
+
+Teamarbeit:
+
+Die Übung erfolgt in 2er Teams
+Präsentation*: Jede Gruppe präsentiert ihre Ergebnisse
+in der Vorlesung am Mo/Fr 01.07.2013/ 05.07.2013 (Datei auf USB-Stick)
+Dauer: 3 Min. pro Team
+Abgabe: als.pdf, bzw.mov am Mo/Fr 01.07.2013/ 05.07.2013
+
+Überlegungen und Fragestellungen zur Präsentation
+
+Bitte veranschaulichen Sie ihre Produtionsweise.
+Nur einige Überlegungen Ergänzungen erwünscht:
+
+Gestaltung
+Wie wurde das erklärte Ziel aus dem Storyboard umgesetzt? 
+Was musste angepasst oder verändert werden?
+Welche Animationsstile wurden gewählt und warum?
+Statische Bewegungen oder dynamische Bewegungen?
+
+Technik
+Wie sind die Bildübergänge nach dem "One Shot" Prinzip eingearbeitet worden? 
+Welche Probleme und Gefahren gab es bei der Produktion?
+Welche Bearbeitungsmethoden haben sich für die Umsetzung geeignet? Z.B.: "Parent" oder "verschachteln"? 
+Wurden Transparenzen wie "Add" oder "Multiplizieren" eingearbeitet? 
+
+UE
+
+Vorstellung der Folgeaufgabe:
+
+Aufgabe 07_Webauftritt "Type in Motion"_Type Shop
+
+Prototypische Entwicklung und Gestaltung eines durchdachten und eigenständigen 
+visuellen Konzepts für einen Webauftritt mit zwei verknüpften Unterseiten. Die Webseiten 
+sollen hochwertig und konsistent gestaltet sein, müssen aber nicht programmiert werden.  
+
+Das Ziel der Aufgabe ist es für einen fiktiven Type-Shop ein neues Verkaufsangebot für einen Schrift Font einzuarbeiten. Auf drei Unterseiten sollen die Inhalte aus den folgenden Forderungen eingearbeitet werden. Die logische und strukturierte Aufteilung der Inhalte ist 
+Teil der Aufgabe. 
+
+Zu gestalten und konzipieren sind insgesamt zwei Hauptbereiche: A) Inhalts- und Navigationsarchitektur „Type-Shop“ und B) die Präsentation der Schrift im "Type in Motion" Look. 
+Wichtig hierbei ist, dass der Navigations- und Inhaltsbereich optisch klar getrennt wird.
+
+In dem vorgelegten Beispiel wurde ein Webauftritt am Beispiel des "Type in Motion" Spot Beispiels von J.Loitz, Font: Bauhaus (im Labor Netzwerk und SU mehrfach vorgeführt worden) dargelegt. 
+ 
+In den folgenden Forderungen finden sie die zu leistenden Komponenten für die Aufgabenstellung.
+
+
+
+Forderung 01:
+Der Webauftritt soll sich aus insgesamt drei Seiten zusammensetzten:
+Eine Eingangsseite und zwei visuell verknüpfte Unterseiten.
+
+In dem vorgelegten Beispiel wurde Blindtext eingearbeitet. 
+In ihrer Umsetzung erarbeiten sie eigene Textkonzepte.
+Alle Texte ihrer Webseiten werden eigenständig formuliert. 
+Kopierte Texte werden mit 0 Punkten bewertet.
+
+Komponenten der Webseiten. Inhaltsbereich Verkaufsangebot Content:
+- Präsentation Schriftfonts
+- Präsentation von mindestens 3 Fakten zum Schriftfont 
+- Online Verkauf/Shop 
+- Spot .mov bzw. .avi Datei "Type in Motion" prototypisch einarbeiten. Screenshot …
+
+Komponenten der Webseiten. Inhaltsbereich:
+- Firmenname
+- Firmenlogo, Slogan
+- Überschrift
+- Aufmachertext (Teaser)
+- Mengentext
+- Fotos, Bilder
+- Grafiken, Infografiken
+- Animationen
+- Videos
+
+
+
+Forderung 02: 
+Um eine durchgängige Gestaltung des Internetauftritts zu erreichen, müssen die einzelnen Komponenten der Webseite strukturiert und logisch aufbereitet werden. Die Voraussetzung für eine einheitliche strategische Visualisierung ist die Entwicklung eines Rastersystems. Das Raster lässt sich in Photoshop oder Illustrator einrichten. Bevorzugt sollen die Rasterzellen mit einer Größe von 40 x 40 Pixel eingearbeitet werden. (Ein Raster dient der Ausrichtung aller Gestaltungselemente auf dem Screen. Eine Anleitung ist unter der Aufgabenstellung abgebildet. Auch im Literaturnachweis wird das Raster erläutert).
+Zudem sollen Navigationselemente eingearbeitet werden. Das Interface-Design soll den Nutzer 
+schnell und eindeutig zum Ziel führen, ohne ihn dabei von den Inhalten der Seiten abzulenken. So muss die visuelle Gestaltung der Benutzeroberfläche klar und durchgängig definiert und gestaltet sein.
+
+Klare visuelle Trennung von Navigation und Inhalt (Content).
+
+Komponenten der Webseiten. Navigationsbereich:
+- Hauptnavigation, Buttonleiste
+- Unter-/Subnavigation
+- Hilfsnavigation
+- Such- und Hilfsfunktionen
+- Kopfbereich 
+- Fußbereich
+
+Zudem sollen Navigationshilfen eingearbeitet werden wie: optische Änderung der 
+Buttons bei Mouse Over. (Prototypische Einarbeitung für die Präsentation, siehe Beispiel.)
+
+Ziele der Navigationselemente am Beispiel der Buttonleiste:
+Die Buttonleiste soll unabhängig von der Größe des Browserfensters sichtbar sein.
+(Hinweis für diejenigen, die ihren Entwurf Online präsentieren möchten) 
+Kurze, treffende Wortwahl für Buttons. Die Buttonleiste nicht zu groß oder zu klein erstellen. 
+Zu beachten ist die Lesbarkeit, die Punktgröße der Textlinks und die Anzahl an Buttons.
+Eventl. Icons als Alternative zur textuellen Beschriftung von Buttons. Icons sollen selbsterklärend sein.
+
+
+
+Forderung 03: 
+Gestalten sie einen eigenen Entwurf für den Webauftritt. Eine bloße Kopie des vorgelegten Beispiels reicht nicht aus. Das Gestaltungskonzept aus den Aufgaben: Storyboard und 
+Type in Motion soll in der Gestaltung der Webseite aufgegriffen werden und in ein einheitlich gestaltetes Layout eingearbeitet werden. Das Ziel ist eine hochwertige durchgängige Gestaltung des Internetauftritts. Zu beachten ist die visuelle Trennung von Navigation und Präsentation 
+ihrer Schrift.
+
+Das Seitenlayout soll konsequent auf den Unterseiten angewandt werden. Das Erstellen 
+einer Musterseite ist in den meisten Fällen hilfreich, es enthält das Grundlayout der Seite 
+und alle Seitenelemente, die auf jedem Screen zu sehen sein sollen.
+
+Verwenden sie nur Bilddaten, die sie selbst angefertigt haben. Sie dürfen nach wie vor bei 
+anderen Autoren abschauen, sollen diese Bilder, Konzepte, Techniken aber selbst erstellen
+und neu variieren.
+
+Komponenten der Webseiten. Screendesign:
+- Usability
+- Lesbarkeit
+- Schauvergnügen
+- Farbeinsatz mit ausreichenden Farbkontrasten
+
+Komponenten der Webseiten. Seitenlayout.
+- Harmonische Seitenaufteilung, nach den Regeln des Goldenen Schnitts (?)
+- Gewichtung der Gestaltungselemente. Schwerpunkte setzen
+- Erstellen einer Musterseite
+- Konsequente Einhaltung Seitenlayout
+
+Komponenten der Webseiten. Gestaltungselemente:
+- Farbflächen 
+- Farbverläufe 
+- Linien
+- Rahmen 
+- Hintergrund
+- Alle Komponenten aus dem Inhaltsbereich
+- Alle Komponenten der Webseiten. Navigationsbereich
+
+Voraussetzungen Lesbarkeit & Farbkontraste:
+Hintergrundfarbe
+Ein Hintergrund soll optisch „hinten“ stehen. Vermeiden: starke Farbverläufe oder unruhige Muster, grelle oder leuchtende Farben im Hintergrund.
+Weißer Hintergrund kann problematisch sein, da Monitore bei Weiß maximal „strahlen“.
+
+Textfarbe
+Schwarz oder dunkle Farben sind als Textfarben geeignet. 
+• Maximale Kontraste. Schwarz auf Weiß ist oft schlecht lesbar.
+• Verminderte Lesbarkeit: helle Schrift auf dunklem Hintergrund ist für längere Texte ungeeignet.
+• Auf ausreichend große Kontraste achten.
+• Optischen Flimmern. Komplementärkontrast (z.B. Cyan-Rot) zur Hintergrundfarbe sind zu vermeiden. 
+
+Schriftgestaltung
+Der Webauftritt ist für das Lesen am Bildschirm gedacht – das schafft Zwänge.
+• Gute Lesbarkeit aller Elemente.
+• Funktionalität.
+• »Schönheit«, Originalität … die ästhetische Dimension. 
+
+Für das Lesen am Bildschirm gut geeignete Schriften in sinnvollen Größen mit lesedienlichem Zeilenabstand.
+• Spielerische Elemente dort, wo sie funktional angebracht sind.
+• Bilder so groß, dass das Gewollte auch für den Leser gut zu sehen ist und unter Umständen auch »Schauvergnügen« entstehen kann.
+
+Anmutung der Webseite 1 und der folgenden durchgängigen Gestaltung:
+• Hinterfragen des Entwurfs: Welche Erwartungen werden für die folgenden Seiten geweckt?
+• Konnotationen (z. B. »kulturelle Botschaften«), die mit den Formlösungen verbunden sind.
+Stimmigkeit der verschiedenen Formlösungen. 
+
+Voraussetzungen Usability & Screendesign: 
+• Hauptnavigation und Firmenlogo vorwiegend links und/oder oben. 
+Begründung: dieser Bereich ist unabhängig von der Fenstergröße immer sichtbar.
+
+• Aufgrund unserer Lesegewohnheit von links nach rechts und oben nach unten sollte 
+die Wichtigkeit der Inhalte entsprechend von links oben nach rechts unten abnehmen.
+
+• Optische Hierarchien. Navigations- und Inhaltsbereich optisch klar trennen. 
+Begründung: da diese unterschiedliche Ziele verfolgen.
+
+• Seitenlayout Gliederung: Scrollbalken sind problematisch, in vertikaler Richtung aber 
+nicht immer vermeidbar, vor allem, wenn größere Textmengen untergebracht werden müssen. 
+Horizontales Scrollen hingegen ist abzulehnen. In dieser Aufgabe sollen keine Scrollbalken eingearbeitet werden.
+
+• Das Rastersystem des Seitenlayouts muss konsequent auf sämtlichen Screens angewandt werden. Begründung: Die intuitive Benutzerführung kann sonst nicht gewährleistet werden.
+
+Forderung 04: 
+Komponenten der Webseiten. Displayauflösung.
+Für Laptops und Computerdisplays gilt der Mindeststandard von 1280 x 768 Pixel im RGB-Farbraum. Von dieser Fläche müssen die Bereiche abgezogen werden, die der Browser für die Menü-, Navigations-, Lesezeichen- und Statusleiste benötigt. Zusätzlich sollte noch der benötigte Platz 
+für die Windows-Taskleiste bzw. das Mac-Dock abgezogen werden. Die verbleibende Fläche ist sichtbar, ohne dass der Nutzer scrollen muss. Somit ergibt sich eine Fläche von 1280 x 720 Pixel im RGB-Farbraum. 
+
+
+Forderung 05: 
+Produktion: Planen sie realistisch. Arbeiten sie bitte nur Konzepte aus, die sie später auch realisieren können. Die mangelhafte Organisation der Produktion wirkt sich negativ auf die Bewertung aus.
+
+Tipp: Kurze Design- und Techniktests in den Planungsphasen, Feedback Gespräch. 
+
+In dieser Aufgabe wird eine Produktionsphase von einer Woche eingeplant. Die Aufgabe wird aber bereits am MO/FR 24.06.MO 28.6. in der SU vorgestellt und besprochen. So haben sie mehrere Wochen Zeit um die Arbeit hochwertig auszuführen.
+
+Feedback. Präsentieren der Entwürfe in der Produktionsphase, ab MO/FR 24.06.MO 28.6.. 
+Zur besseren Verdeutlichung Bildvorlagen, Beispiele oder bereits erarbeitete Entwürfe mitbringen.
+
+
+
+
+Forderung 06: 
+Abgabe und Präsentation.
+Form: Anschauliche, visuelle Aufbereitung.
+Inhalte (nur einige Stichpunkte, Ergänzungen erwünscht!): anschauliche Präsentation, Funktionen, Überblick, Navigationsmöglichkeiten, detaillierte Angaben etc. in mündlicher Form.
+
+Folgende Komponenten sollen in der Präsentation enthalten sein:
+Verlinkungen, sichtbare Navigationshilfen
+Eingangsseite
+1. Unterseite 
+2. Unterseite 
+
+Bitte Daten auf Stick zur Abgabe/Präsentation mitbringen. Bitte bringen sie auch das vollständige Basismaterial mit. Die spätere Präsentation des Basismaterials ist nicht möglich.
+Die Daten im angegeben Ordner abgelegen. Der Ordner wird nach der Abgabe aller Teilnehmer verschlossen. Die Präsentationen beginnen.
+Die weitere Bearbeitung der Arbeiten während der Präsentation ist nicht erlaubt. Arbeiten die Teilnehmer dennoch weiter an ihren Produktionen wird dies als Täuschungsversuch mit der Note 5 bewertet.
+
+Upload oder Per Mail wird nicht akzeptiert. Die spätere Abgabe ist nur mit einem ärztlichen 
+Attest möglich.
+
+Abgabe und Präsentation MO/FR 08.7.2013/12.07.2013
+
+ 
+8. Juli - 14. Juli
+
+SU
+
+Vorträge
+26. 2 Pers. Screen- & Interfacedesign: Physical Interfaces
+27. 2 Pers. Screen- & Interfacedesign: Designer Alex Beim
+29. 2 Pers. Gestaltungsmethoden & Screendesign: VJ & Art Präsentation
+
+Präsentation und Abgabe
+
+05_Screendesign Webseite: Type Shop

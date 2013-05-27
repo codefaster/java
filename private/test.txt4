@@ -1,0 +1,294 @@
+
+Teamarbeit:
+Die Übung erfolgt in 2er Teams
+Präsentation*: Jede Gruppe präsentiert ihre Ergebnisse
+in der Vorlesung am Mo/Fr 03.06.2013/ 07.06.2013  (Datei auf USB-Stick)
+Dauer: 3-5 Min. pro Team
+
+Abgabe: als .pdf am Mo/Fr 03.06.2013/ 07.06.2013     
+
+*Upload oder Per Mail wird nicht akzeptiert. Basismaterial mitbringen, falls Fragen zur Produktion auftreten.
+
+UE
+
+Im Anschluss Forstellung der Folgeaufgabe:
+Start 06_Spot: "Type in Motion"
+
+Parameter: Erstellung eines Designkonzeptes für einen Info-/Werbespot.
+Siehe Projektbeschreibung: EINLEITUNG AUFGABEN DES SEMESTERS.
+Der Spot Type in Motion soll sich nach Möglichkeit aus der Vorlage Storyboard ergeben.
+Viele Beispiele liegen im Labor Netzwerk vor. An diesen können Sie sich orientieren. 
+
+Forderung_01: 
+Konzept: Achten Sie auf eine dramaturgische Spannungskurve. Setzen Sie visuelle Highlights 
+am Anfang und am Ende des Spots, diese Bilder/Töne prägen sich bei dem Rezipienten am stärksten ein. 
+
+Das Storyboard sollte in der vorherigen Aufgabe ist eine 100% Vorlage für den Film ausgearbeitet werden und ohne weitere 
+Erklärungen die Filmidee visualisieren. Der in dieser Aufgabe zu erstellende Spot wird sich an diese Vorgabe halten und in 
+After Effects umgesetzt. Sie erarbeiten 3 Fakten zur Schrift, der Spot "Type in Motion" in Aufgabe 6 soll final 30-40 Sekunden 
+betragen. Teilen sie deshalb die 3 Fakten in ca. 3 Szenen von jeweils 10 Sekunden auf. Für ein Intro und ein Finale bleiben 
+Ihnen noch insgesamt maximal 10 Sekunden.
+
+Bitte verwenden Sie folgende Schriften NICHT in MD2 UE: Myriad, Helvetica, Times, Univers, Gill, Futura.
+
+Forderung 2: 
+Umsetzung Gestaltungselemente: Der Fokus soll auf der Konzeption innovativer und kreativer Komponenten des Spots liegen. 
+Bewertet werden Gesamteindruck, Ausarbeitungsgrad, Inhalt und die Gestaltungselemente wie: Bilder & Collagen Illustrationen, 
+Fotos, Videodaten, Animation und Effekte, Bildübergänge, Musiken, Sprache oder Geräusche.
+
+Forderung 3: 
+Umsetzung in After Effects: Länge: 30 bis 40 Sekunden. 
+Bildübergänge: “One Shot”, “Schnitt bei Bildabdeckung” und “Unsichtbarer Schnitt”.* Video/Foto/Illustration: Eine Stop Motion 
+Sequenz (Foto oder Video) oder eine Video Sequenz sollen im Spot enthalten sein -  alternativ - drei Illustration oder drei Fotos.
+
+Funktionen in After Effects: Arbeiten Sie in After Effects mir den geometrischen Eigenschaften in 2D oder 3D, den Ebenen, 
+Ebenen verschachteln, Ebenen Stile (Stroke, Schatten, usw.). Erstellen Sie Masken, gerne mit dem Tracking Effect, Keys 
+verwenden und Farbkorrekturen (unter Effekte) für Fotos und Videosequenzen einarbeiten.  
+
+Sie sollen bitte Animationspunkte mit der Verwendung von Keyframes einarbeiten. 
+Dynamische Bewegungen mit dem "Keyframe Assistent" erzeugen. "Harte" und "statische" Bewegungen vermeiden.
+Mit "Schalter Modi Konvertieren" können Sie Alphachannel setzen oder die Abbildung Ihrer Ebenen beeinflussen. 
+
+Gehen Sie bitte mit den Presets für die Textanimationen sparsam um, denn die meisten Effekte sind bekannt und vermindern 
+den individuellen und eigenständigen Eindruck ihrer Produktion. Achten Sie auf das Timing. Texte stehen so lange bis sie gelesen 
+wurden. Wenn Sie die Kamera in After Effects verwenden möchten, machen Sie bitte technische Tests vorab. Die Kamera ist nicht 
+so einfach zu bedienen, wie es scheint.  
+
+Ausschlaggebend für die gute Benotung ist die Kreation einer eigenen Idee für den Spot.*
+Der Spot, sowie das Storyboard sollen ohne zusätzliche Erklärungen nachvollziehbar ausgearbeitet sein. 
+Bitte Kurze aussagekräftige Sätze bzw. Schlagwörter in den Animationen einarbeiten.* 
+
+*Bereits in Aufgabe Storyboard bearbeitet.
+
+Die Bilddaten bitte im RGB Format erstellen, YMCK Daten können Video Softwares nicht importiert werden.
+Die Bilddaten sollten mindestens 72 dpi enthalten und nicht über 32 bit abgespeichert sein.
+
+Die Illustrationen sollten als Vektorgrafiken erstellt werden, da Vektoren in der Animation verlustfrei vergrößert werden können. 
+Falls einzelne Elemente der Illustration separat animiert/bewegt werden sollen, speichern Sie die Elemente auf einzelnen Ebenen 
+in Illustrator oder Photoshop ab und importieren die Daten, im Dialogfeld als Komposition in After Effects. 
+
+Erstellen Sie Fotoreihen, die als Film abgespielt werden sollen, so werden diese als einzelne Datei in After Effects importiert, 
+im Dialogfeld Import "Sequenz" anwählen. 
+
+Die Forderung nach der Verwendung von ausschließlich selbst erstellten Bilddatenträgern in der Aufgabe und allen weiteren Aufgabenstellungen in der UE ist Ihnen bereits bekannt.
+
+
+Forderung 4: 
+Ausgabe: Filmformat, verlustfrei, Format: Quicktime (.mov).
+Auflösung: 16:9 PAL* (oder 1920x1080 HDTV) Siehe Formate.
+Framerate: 24,9 fps, Videocodec: H.264 (.mp 4) (problematisch in Labor 420), Animation oder Sorensen.
+*Das PAL-System, kurz für Phase-Altenration-Line-System, wird hauptsächlich in Europa, Afrika, Australien 
+sowie vielen Ländern Asiens und Südamerikas ausgestrahlt und besteht im digitales PAL besteht aus 576, 
+die man alle in der Bildschirmauflösung wieder findet.
+**Der Codec H.264 baut sich auf seine Vorgänger MPEG-1, MPEG-2 und MPEG-4 auf und ist aufgrund seiner 
+Bildqualität und kleinen Datenmengen zu einem der wichtigsten Codecs geworden. Vor allem für das Internet 
+spielt dieser Codec eine große Rolle. Große Vielzahl an Anwendungsmöglichkeiten. IPods, iPhones und die 
+Playstation Portable arbeiten mit H.264.31
+
+Progressive / Interlaced
+Interlaced: Beim Zeilensprungverfahren wird ein komplettes Bild, ein Vollbild, aus zwei unterschiedlichen Halbbildern aufgebaut.
+Dazu stellt man in den aufeinanderfolgenden Halbbildern im ersten Halbbild nur die ungeraden Zeilen (1, 3, 5, ..) dar und im zweiten
+Halbbild nur die geraden Zeilen (2, 4, 6,..). Das Auge integriert diese kurzzeitigen Zeilensprünge zu einem Gesamtbild.
+Progressive: Das Vollbildverfahren (auch engl. Progressive Scan) bezeichnet eine Technik beim Bildaufbau von Monitoren, Fernsehgeräten,
+Beamern und anderen Anzeigegeräten, bei denen das Ausgabegerät – anders als beim Zeilensprungverfahren – keine zeilenverschränkten
+Halbbilder gesendet bekommt, sondern mit echten Vollbildern gespeist wird.
+
+
+Bildformate 16:9 und HDTV
+16:9 (Alte PAL Variante zum Übergang HDTV)
+576 p 25 = 576 p / 25 = 576 x 1050 Bildpunkte im Vollbildverfahren und 25 Vollbilder pro Sekunde
+576 i 25 = 576 i / 25 = 576 x 1050 Bildpunkte im Zeilensprungverfahren und 50 Halbbilder pro Sekunde
+480 p 30 = 480 p / 30 = 480 x 720 Bildpunkte im Vollbildverfahren und 30 Vollbilder pro Sekunde
+480 i 30 = 480 i / 30 = 480 x 720 Bildpunkte im Zeilensprungverfahren und 60 Halbbilder pro Sekunde
+
+HDTV
+1080 i 60 = 1080 i / 30 = 1920 × 1080 Bildpunkte im Zeilensprungverfahren und 60 Halbbilder pro Sekunde.
+1080 p 30 = 1080 p / 30 = 1920 × 1080 Bildpunkte im Vollbildverfahren und 30 Vollbilder pro Sekunde.
+1080 p 24 = 1080 p / 24 = 1920 × 1080 Bildpunkte im Vollbildverfahren und 24 Vollbilder pro Sekunde.
+720 p 50 = 720 p / 50 = 1280 × 720 Bildpunkte im Vollbildverfahren und 50 Vollbilder pro Sekunde.
+1152 i 50 = 1152 i / 25 = 2048 × 1152 Bildpunkte im Zeilensprungverfahren und 50 Halbbilder pro Sekunde.
+
+Hinweis A
+Bei der Bearbeitung des Projekts »Filmankündigung« in "After Effects CS6" an privaten Rechnern 
+kann keine Betreuung und Verantwortung übernommen werden.
+
+Hinweis B
+Die neue Version "After Effects CS6" verfügt über einen 64 bit Speicher. Unsere Software im Labor kann 
+diese Version nicht öffnen, auch abwärts kompatibel gespeicherte "After Effects CS6" Projekte, welche 
+in der 64 bit Einstellung laufen, können im Labor nicht geöffnet werden. 
+Bitte beachten Sie diese Faktoren und bringen Sie ihre Daten mit zum Feedback Gespräch in einem 
+lesbaren Format mit. 
+
+Hinweis C
+Veröffentlichung auf Video: in der Praxis hat sich gezeigt, dass sich bei diesem Prozess der Farbraum 
+und insbesondere der Schwarzwert des Videomaterials sichtbar verändert. Das Bild wird um einiges 
+dunkler. Um diesem Problem entgegenzuwirken, soll der Film schon beim Export aus Adobe After Effects 
+mit einem helleren Tonwert versehen werden, um dem von Vimeo aufgezwungenen Schwarzwert zu 
+kompensieren.
+
+Forderung 5: 
+Feedback: Mindestens ein Feedback Gespräch in der Produktionsphase Spot "Type in Motion" soll eingehalten werden und fließt 
+in die Bewertung ein. Bringen Sie zur besseren Verdeutlichung Bildvorlagen, Beispiele oder bereits erarbeitete Animationen mit.
+So können technische sowie inhaltliche Fehler oder Probleme rechtzeitig behoben werden. Feedback Gespräche ohne Bildmaterial
+werden leider nicht bewertet.
+
+
+Forderung 6: 
+Ton: Planen Sie ein Sounddesign für Ihre Umsetzung.
+Der Sound kann den Rhythmus und die Stimmung eines Spots maßgeblich unterstützen, deshalb sollte die Wahl der 
+Vertonung gut überlegt sein. Musik mit stark hervorstechenden Beats können zum Beispiel gut für Bildübergänge genutzt 
+werden. Die Wahl der Musik, Sounds, Geräusche wie: "Whooshes", atmosphärische Sounds oder Sprache (Voice Over)
+kann bestimmend für die Stimmung im Spot sein. 
+
+Audiodaten:
+Freesound.org bietet eine gute Auswahl an Audiodaten.
+Viele Sounddaten und Musiktitel sind bei Freesound.org zunächst, royalty free (lizenzfrei).
+Es gibt jedoch auch Musiken, die nur in Teilen freie Verwertungsrechte enthalten. 
+Bitte achten Sie darauf und verwenden Sie diese Tracks nicht. 
+
+Forderung 7: 
+Produktion:
+Einhaltung der Termine und Fristen. Konstruktive Mitarbeit im Team sowie inhaltlich und technisch.
+Beachten Sie bitte auch die Angaben zu Teamarbeit & Abgabe. 
+
+Planen sie bitte realistisch. Arbeiten Sie bitte nur Konzepte aus, die Sie später auch ausarbeiten können.
+Tipp: kurze Design- und Techniktests in den Planungsphasen.
+
+Alle Teilnehmer, die nur sehr selten in die Übungen kommen, handeln einverantwortlich. Es wird sich jedoch 
+negativ auf die Note auswirken, wenn in der Produktionsphase kein Feedback abgeholt wurde und die Arbeit 
+Qualitätsmängel aufweist.
+
+Wird Unterrichtsstoff verpasst, nicht am Praxisunterricht teilgenommen, arbeiten Sie den Stoff eigenständig 
+und eigenverantwortlich nach.
+
+
+
+Forderung 8: 
+Präsentation des Spots mit einer separat ausgearbeiteten Präsentation. Ca. 3 Seiten, Querformat. Anschaulich
+gestaltete Sheets mit Screenshots und Erläuterungen zu Fx und Produktion. 
+
+1 Beispiel: Film & Storyboard: 
+Planung > Umsetzung  
+1 Beispiel: Effekte: Vorher Nachher, Schwierigkeitsgrad, 
+1 Beispiel: komplexe Szene.
+Fazit, Spot abspielen.
+
+
+Teamarbeit & Abgabe:
+Jedes Teammitglied soll einen nachvollziehbaren Teil der Produktion eigenständig erbringen. 
+Diese Leistung wird nach der Abgabe und im Anschluss an die Präsentationen in einer Praxisprüfung abgefragt.
+
+Nehmen die Teilnehmer nicht an der Prüfung Teil, wird dies als Täuschungsversuch mit der Note 5 bewertet.
+Planen sie also in jedem Fall am Abgabetag etwas mehr Zeit ein.
+
+Die Abgabe:
+Bitte Daten auf Stick zur Abgabe/Präsentation mitbringen. Anwesenheitspflicht.
+Upload oder Per Mail wird nicht akzeptiert. Die spätere Abgabe ist nur mit einem ärztlichen Attest möglich.
+
+Das Abgabe Prozedere:
+Die Daten im angegeben Ordner abgelegen. Briefkasten. 
+Der Ordner wird nach der Abgabe aller Teilnehmer verschlossen. 
+
+Die Präsentationen beginnen. Die weitere Bearbeitung der Arbeiten während der Präsentation ist nicht erlaubt. 
+Arbeiten die Teilnehmer dennoch weiter an ihren Produktionen wird dies als Täuschungsversuch mit der Note 
+5 bewertet. Die spätere Präsentation des Basismaterials ist nicht möglich.
+
+Falls im Anschluss an Ihre Präsentation noch Fragen zur Produktion auftreten, spreche ich Sie an.
+Die Nachprüfung findet direkt im Anschluss an die Präsentationen statt. Entziehen Sie sich der 
+Nachprüfung gilt dies als Täuschungsversuch und wird mit der Note 5 bewertet. 
+
+
+Bitte Daten auf Stick zur Abgabe/Präsentation mitbringen. 
+Anwesenheitspflicht.
+
+Upload oder Per Mail wird nicht akzeptiert. 
+Die spätere Abgabe ist natürlich mit einem ärztlichen Attest möglich.
+
+
+Teamarbeit:
+Die Übung erfolgt in 2er Teams
+Präsentation*: Jede Gruppe präsentiert ihre Ergebnisse
+in der Vorlesung am Mo/Fr 01.07.2013/ 05.07.2013 (Datei auf USB-Stick)
+Dauer: 3 Min. pro Team
+Abgabe: als.pdf, bzw.mov am Mo/Fr 01.07.2013/ 05.07.2013
+
+*Upload oder Per Mail wird nicht akzeptiert.  
+
+Bitte beachten Beispiele Netzwerk.
+Die Beispiele im Netzwerk sind alle sehr hochwertig ausgearbeitet und haben 
+gute Noten erzielt. Die Arbeiten sind keine 100%tigen Vorlagen für die aktuelle Aufgabenstellung, 
+da die Aufgabenstellungen in jedem Semester leicht variieren. Beachten sie also unbedingt die 
+aktuelle Aufgabenstellung. 
+ 
+ 
+Benotung 
+Zeitlicher Umfang Präsentation:   3 Min.
+Teamgrösse: 2er Teams
+Anteil Gesamtnote UE:  20 %
+
+30 % Abgabe 
+05 % Produktion   
+05 %     Umsetzung Storyboard
+05 %     Einhaltung 3 Fakten
+05 %     Feedback Gespräch
+10 % Ausarbeitungsgrad Video/Foto/Illustration
+10 % Ausarbeitungsgrad Animation (Dynamik, Leseführung, Duktus, Qualität)
+10 % Ausarbeitungsgrad Bildübergänge 
+10 % Schwierigkeitsgrad
+10 % Sounddesign, Musik 
+
+Zusatzpunkte: 
+05 % Präsentation (Forderung 8:)
+
+Viel Erfolg!
+
+Im Anschluss Feedback Gespräche:
+
+Bitte bringen Sie Ihre Ideen und Materialien mit.
+
+Individuelle Betreuung zu technischen und gestalterischen Fragen.
+
+10. Juni - 16. Juni
+
+SU
+20. 2 Pers. Technik: Komponenten zur Digitalen Videoverarbeitung
+21. 2 Pers. Mediaarchitecture: Video Mapping
+
+UE
+
+Feedback Gespräche:
+Bitte bringen Sie Ihre Ideen und Materialien mit.
+
+Individuelle Betreuung zu technischen und gestalterischen Fragen.
+
+5. Software Einführung
+Datum: 10. Juni - 16. Juni
+ThemenWiderholungen: Tracking Effekt einarbeiten, Szenen / Kompositionen verschachteln Sound einarbeiten, 
+Vignetten setzten, Farbkorrektur, Ebenenstile erstellen, Geometrische Eigenschaften / Transformation Optionen in 2D oder 3D anwenden, Import von Bildsequenzen, Projekt Export als mov Datei.   
+
+ 
+
+17. Juni - 23. Juni
+
+SU
+22. 2 Pers. Web Interfaces: Interactive Web Video 
+23. 2 Pers. Web Interfaces: Online Shop
+
+SU
+
+    Aufgabe06_Spot_20% Note UE Aufgabe
+
+24. Juni - 30. Juni
+
+SU
+24. 2 Pers.
+Screendesign: Urban Interfaces
+25. 2 Pers. Screen- & Interfacedesign: Digital Games
+
+UE
+1. Juli - 7. Juli
+
+SU
+
+Präsentation und Abgabe der Aufgabe:
+06_Spot: "Type in Motion"

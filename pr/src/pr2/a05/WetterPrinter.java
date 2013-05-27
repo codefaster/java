@@ -1,0 +1,1 @@
+package pr2.a05;import java.awt.event.ActionEvent;import java.awt.event.ActionListener;public class WetterPrinter implements ActionListener{	protected long startTime = System.currentTimeMillis();	public void actionPerformed(ActionEvent e) {		System.out.printf("%15s%10s%10s\n","Wetternachricht um: ",e.getWhen()-startTime,e.getActionCommand());	}}

@@ -1,0 +1,1 @@
+package alg1;import de.beuth.algorithmen.storage.SortingAlgorithm;import de.beuth.algorithmen.storage.Storage;public class MergeSort implements SortingAlgorithm {	public void sort(Storage s) {		Storage c = new Storage(s.length());		c.delete();	}}

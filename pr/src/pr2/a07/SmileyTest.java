@@ -1,0 +1,1 @@
+package pr2.a07;import lernhilfe2013ss.graphics.DirtyPainter;public class SmileyTest {	public static void main(String[] args) {		DirtyPainter dp = new DirtyPainter();		Smiley smile1 = new Smiley(0, 0, 100, 30, 320, false);		Smiley smile2 = new Smiley(200, 0, 100, 30, 90, true);		dp.add(smile1);		dp.add(smile2);		dp.showDrawing();	}}

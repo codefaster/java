@@ -1,0 +1,1 @@
+package pr2.a05.zweite;public class EnumTest {	public static void main (String[] args) {		Wetterzustand wetter = Wetterzustand.BEDECKT;		System.out.println(wetter.toString());	}}

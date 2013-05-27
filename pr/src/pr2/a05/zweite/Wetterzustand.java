@@ -1,0 +1,1 @@
+package pr2.a05.zweite;public enum Wetterzustand {	SONNIG, WOLKIG, BEDECKT, GEWITTER, REGEN}
