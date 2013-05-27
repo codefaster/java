@@ -120,24 +120,24 @@ public class FunkyDealer {
 //	   antworte neueListe
 	
 
-	public static int[] mergeSort(int [] a) {
-		if (a.length <= 1) { 
-			return a;
+	public static int[] splitRange(int first, int last) {
+		int origLength = last-first;
+		if (origLength <= 1) { 
+			return new int[] {
+					first, last
+					};
 		}
-		int [] b = new int[a.length / 2];
-		int [] c = new int[a.length-b.length];
-		// Generate array A
-		for (int i=0; i<b.length; i++) {
-			b[i] = a[i];
-		}
-		// Generate array B 
-		for (int i=0; i<c.length; i++) {
-			c[i] = a[b.length + i];
-		}
-		// Split left and right recursively
-		printArray(b,"A <|>");
-		printArray(c,"B <|>");
-		return merge(mergeSort(b),mergeSort(c));
+		
+		int length1 = origLength / 2;
+		int length2 = origLength - length1;
+		
+		int first1 = first;
+		int last1 = first1 + length1 - 1;
+		
+		int first2 = last1 + 1;
+		int last2 = first2 + length2 - 1;
+		
+		return merge(splitRange(first1,last1),splitRange(first2,last2));
 	}
 	
 	public static int[] merge(int [] a, int [] b) {
@@ -181,7 +181,7 @@ public class FunkyDealer {
 		int [] a = {44,33,14,9,2,1,4324,42,2,2,4};
 //		int [] a = {1, 6, 9, 10, 19};
 //		int [] b = {0, 5, 22, 44, 50};
-		printArray(mergeSort(a));
+	//	printArray(mergeSort(a));
 	}
 	
 
