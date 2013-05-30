@@ -1,5 +1,5 @@
 .classpath
 .project
-/*.class
-classes/
-*classes/
+*.class
+*.prefs
+.DS_Store
