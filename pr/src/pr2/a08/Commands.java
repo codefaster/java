@@ -1,0 +1,1 @@
+package pr2.a08;public enum Commands {	MODEL_UPDATE}
