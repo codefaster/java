@@ -1,1 +1,0 @@
-package pr2.a07;import java.awt.event.ActionEvent;import java.awt.event.ActionListener;public class SmileControl implements ActionListener {	SmileyModel m;		public SmileControl(SmileyModel m) {		this.m=m;	}		public void actionPerformed(ActionEvent e) {			}}
