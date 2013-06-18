@@ -1,0 +1,1 @@
+package pr2.a09;public enum LabelItems {	APPLICATION_TITLE}

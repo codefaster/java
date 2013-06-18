@@ -1,0 +1,1 @@
+package pr2.a09;public enum IconPaths {	HAPPY_ICON ("SmileyIcons/happy.png"),	SAD_ICON ("SmileyIcons/sad.png"),	LOVE_ICON ("SmileyIcons/love.png"),	HATE_ICON ("SmileyIcons/hate.png");		private final String text;	private IconPaths(final String text) {		this.text = text;	}		public String toString() {		return text;	}}
